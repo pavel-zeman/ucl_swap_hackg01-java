@@ -1,0 +1,3 @@
+rootProject.name = 'ucl_swap_hackg01-java'
+include 'ucl_swap_hackg01-hi'
+include 'ucl_swap_hackg01-server'
